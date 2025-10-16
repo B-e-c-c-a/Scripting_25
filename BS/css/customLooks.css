@@ -4,7 +4,5 @@ background-image: url(../bsImages/scallopWhite.png);
 background-repeat: repeat-x;}
 #ABOUT{background-image: url(../bsImages/backgrounds/Abstract-blue_0.jpg);
 background-repeat: no-repeat
-background-size: cover
-background-position: center
-background-attachment: fixed
+
 ;}
